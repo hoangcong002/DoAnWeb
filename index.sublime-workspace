@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fr",
+				"frmMain"
+			],
+			[
+				"Cr",
+				"CreateTable"
+			],
+			[
+				"C",
+				"CreateTable"
+			],
+			[
+				"txtS",
+				"txtSoDong"
+			],
+			[
+				"cr",
+				"createElement〔function〕"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"tag",
+				"tagTBody"
+			],
+			[
+				"appe",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"tagt",
+				"tagTBody"
+			],
+			[
+				"bor",
+				"border\t = '' Style CSS"
+			],
+			[
+				"function",
+				"function_with_name"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"funtion",
+				"function_with_name"
+			],
+			[
+				"lo",
+				"location\t: Location Window"
+			],
+			[
+				"getDa",
+				"getDay\t(): int Date"
+			],
+			[
+				"time",
+				"getTime\t(): number Date"
+			],
+			[
+				"c",
+				"cellspacing\tAttr"
+			],
+			[
+				"bg",
+				"bgcolor\tAttr"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"ke",
+				"Ketqua"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"so",
+				"So1"
+			],
+			[
+				"S",
+				"So2"
+			],
+			[
+				"fS",
+				"fSohai"
+			],
+			[
+				"maudo",
+				"maudonhat"
+			],
+			[
+				"ma",
+				"maudonhat"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"borderc",
+				"border-collapse\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"t",
+				"translate\tAttr"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"boc",
+				"border-collapse\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"border-",
+				"border-image-slice\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"node -v",
+			"node --version",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/wamp64/www/MyWeb/index2/main.js",
+		"/H/wamp64/www/MyWeb/index2/main.php",
+		"/H/wamp64/www/DoAnWeb1/index.php",
+		"/H/wamp64/www/MyWeb/index2/main.css",
+		"/H/Users/ccc/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/H/wamp64/www/MyWeb/index1/main.php",
+		"/H/wamp64/www/MyWeb/doancuoiki/main.css",
+		"/H/wamp64/www/MyWeb/1660073/index.php",
+		"/H/wamp64/www/MyWeb/doancuoiki/main.js",
+		"/H/wamp64/www/MyWeb/doancuoiki/main.php",
+		"/H/wamp64/www/MyWeb/1660073/index1.php",
+		"/H/wamp64/www/MyWeb/1660073/Trang2.php",
+		"/H/wamp64/www/MyWeb/doancuoiki/frmmain.php",
+		"/H/wamp64/www/MyWeb/1660073/Trang1.php",
+		"/H/wamp64/www/MyWeb/doancuoiki/style.css",
+		"/H/wamp64/www/MyWeb/doancuoiki/main.html",
+		"/H/wamp64/www/MyWeb/ketquapheptinh.php",
+		"/H/wamp64/www/MyWeb/pheptinh.php",
+		"/H/wamp64/www/MyWeb/Trang2.php",
+		"/H/wamp64/www/MyWeb/Trang1.php",
+		"/H/wamp64/www/MyWeb/index1.php",
+		"/H/wamp64/www/MyWeb/asd.php",
+		"/H/wamp64/www/MyWeb/test.php",
+		"/E/Downloads/Package Control.sublime-package",
+		"/D/Bài Tập/3-HKI/Lập Trình Web 1/1660073 t3/1660073/Bai1.html",
+		"/H/Users/ccc/Desktop/index.php",
+		"/H/Users/ccc/Desktop/phpphp.php",
+		"/H/wamp64/www/test_sockets.php",
+		"/H/Users/ccc/Desktop/asda.html",
+		"/D/Bài Tập/3-HKI/Lập Trình Web 1/1660073 t3/1660073/Bai2.html",
+		"/D/Bài Tập/3-HKI/Lập Trình Web 1/1660073 t2/1660073/Bai9.html",
+		"/D/Bài Tập/3-HKI/Lập Trình Web 1/1660073 t2/1660073/Bai10.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
