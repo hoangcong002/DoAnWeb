@@ -1,28 +1,22 @@
 <?php include "includes/header.php" ?>
-		<div id="wrapper">
+	<div id="wrapper">
+	
 		<main>
 			<div id="content">
 				<div class="innertube">
-					<h1>Content 1</h1>
-					This is content. This is content.
-					<h1>Content 2</h1>
-					This is content. This is content. This is content.
-					<h1>Content 3</h1>
-					This is content. This is content. This is content. This is content.
-					<h1>Content 4</h1>
-					This is content. This is content. This is content. This is content.
-					<h1>Content 5</h1>
-					This is content. This is content. This is content. This is content. This is content.
-					<h1>Content 6</h1>
-					This is content. This is content. This is content. This is content. This is content. This is content.
-					<h1>Content 7</h1>
-					This is content. This is content. This is content. This is content. This is content. This is content. This is content.
-					<h1>Content 8</h1>
-					This is content. This is content. This is content. This is content. This is content. This is content. This is content. This is content.
-					<h1>Content 9</h1>
-					This is content. This is content. This is content. This is content. This is content. This is content. This is content. This is content. This is content.
-					<h1>Content 10</h1>
-					This is content. This is content. This is content. This is content. This is content. This is content. This is content. This is content. This is content. This is content.
+					<h1>Heading</h1>
+					This, too, will pass. If the facts don't fit the theory, change the facts. The past has no power over the present moment. 
+					<h3>Heading</h3>
+					<p>The most important moment of your life is now. The most important person in your life is the one you are with now, and the most important activity in your life is the one you are involved with now. The past has no power over the present moment. </p>
+					<h3>Heading</h3>
+					<p>The most important moment of your life is now. The most important person in your life is the one you are with now, and the most important activity in your life is the one you are involved with now. The smaller your reality, the more convinced you are that you know everything. This, too, will pass. Peace comes from within. Do not seek it without. </p>
+					<h3>Heading</h3>
+					<p>The most important moment of your life is now. The most important person in your life is the one you are with now, and the most important activity in your life is the one you are involved with now. </p>
+					<p>You will not be punished for your anger, you will be punished by your anger. The past has no power over the present moment. </p>
+					<p>You will not be punished for your anger, you will be punished by your anger. </p>
+					<h3>Heading</h3>
+					<p>The most important moment of your life is now. The most important person in your life is the one you are with now, and the most important activity in your life is the one you are involved with now. Peace comes from within. Do not seek it without. This, too, will pass. </p>
+					<p>You will not be punished for your anger, you will be punished by your anger. The smaller your reality, the more convinced you are that you know everything. If the facts don't fit the theory, change the facts. The past has no power over the present moment. </p>
 				</div>
 			</div>
 		</main>
@@ -55,5 +49,5 @@
 				</ul>
 			</div>
 		</nav>
-		</div>
-<?php include "includes/footer.php" ?>
+	</div>
+	<?php include "includes/footer.php" ?>
