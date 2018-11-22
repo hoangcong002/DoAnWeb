@@ -1,4 +1,4 @@
-body {
+			body {
 				margin:0;
 				padding:0;
 				font-family: Sans-Serif;
@@ -44,11 +44,11 @@ body {
 			}
 						
 			#content {
-				margin-right: 230px; /* Same as 'nav' width */
+				margin-right: 230px;
 			}
 			
 			.innertube {
-				margin: 15px; /* Padding for content */
+				margin: 15px;
 				margin-top: 0;
 			}
 		
