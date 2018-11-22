@@ -1,6 +1,6 @@
 <footer>
 		<div class="innertube">
-			<p>Footer...</p>
+			<p>Đây là Footer...</p>
 		</div>
 	</footer>
 </body>
