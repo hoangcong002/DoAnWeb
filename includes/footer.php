@@ -1,7 +1,8 @@
-<footer>
-		<div class="innertube">
-			<p>Đây là Footer...</p>
+	<div class="footer">
+		<div class="font_end">
+			<br>
+			Hoàng Hồng Công
 		</div>
-	</footer>
+	</div>
 </body>
 </html>

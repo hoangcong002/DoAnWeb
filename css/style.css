@@ -2,54 +2,6 @@
 .crl{
 	clear: both;
 }
-.header {
-	height: 80px;
-	background: #33CC33;
-}
-.home_bt{
-	float: left;
-	margin: 5px 50px auto;
-	width: 60px;
-	height: 60px;
-}
-.search_input{
-	float: left;
-	margin-top: 18px;
-	width: 800px;
-	height: 40px;
-	border: 1px;
-	font-size: 18px;
-	text-shadow: 2px 2px 2px #B0AAAA;
-	text-align: left;
-}
-
-.search_bt{
-	float: left;
-	margin-top: 19px;
-	margin-left: -42px;
-	width: 41px;
-	height: 41px;
-	border: 1px;
-}
-.shop_bag{
-	float: right;
-	margin-right: 330px;
-	margin-top: 15px;
-	width: 45px;
-	height: 45px;
-}
-.login_text{
-	float: right;
-	margin-top: 25px;
-	margin-right: -340px;
-	margin-left: 20px;
-}
-
-.text_login{
-	font-size: 24px;
-	color: white;
-	text-decoration: none;
-}
 
 body {
 	margin: 0px;
@@ -57,58 +9,35 @@ body {
 	font-family: Sans-Serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	background: #AAFABF;
+	background: #E0FEE8;
 }
 
+main {
+	padding-bottom: 10010px;
+	margin-bottom: -10000px;
+	float: left;
+	width: 100%;
+}
+				
+#wrapper {
+	overflow: hidden;
+}
+		
+.innertube {
+	margin: 10px; 
+	margin-top: 0;
+	text-align: left;
+}
 
-			main {
-				padding-bottom: 10010px;
-				margin-bottom: -10000px;
-				float: left;
-				width: 100%;
-			}
-			
-			nav {
-				padding-bottom: 10010px;
-				margin-bottom: -10000px;
-				float: left;
-				width: 200px;
-				margin-left: 0px;
-				background: #eee;
-			}
-			
-			footer {
-				clear: left;
-				width: 100%;
-				background: #ccc;
-				text-align: center;
-				padding: 4px 0;
-			}
-	
-			#wrapper {
-				overflow: hidden;
-			}
-						
-			#content {
-				margin-left: 230px; 
-			}
-			
-			.innertube {
-				margin: 15px; 
-				margin-top: 0;
-				text-align: left;
-			}
-			p {
-				color: #555;
-			}
-	
-			nav ul {
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			
-			nav ul a {
-				color: darkgreen;
-				text-decoration: none;
-			}
+h3{
+	font-size: 24px;
+}
+
+h2{
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+p {
+	color: #555;
+}

@@ -3,52 +3,41 @@
 		<main>
 			<nav>
 			<div class="innertube">
-				<h3>Right heading</h3>
+				<h3>Thương hiệu</h3>
 				<ul>
-					<li><a href="#">Link 1</a></li>
-					<li><a href="#">Link 2</a></li>
-					<li><a href="#">Link 3</a></li>
-					<li><a href="#">Link 4</a></li>
-					<li><a href="#">Link 5</a></li>
+					<li><a href="#">Thương hiệu 1</a></li>
+					<li><a href="#">Thương hiệu 2</a></li>
+					<li><a href="#">Thương hiệu 3</a></li>
+					<li><a href="#">Thương hiệu 4</a></li>
+					<li><a href="#">Thương hiệu 5</a></li>
 				</ul>
-				<h3>Right heading</h3>
+				<h3>Nhà sản xuất</h3>
 				<ul>
-					<li><a href="#">Link 1</a></li>
-					<li><a href="#">Link 2</a></li>
-					<li><a href="#">Link 3</a></li>
-					<li><a href="#">Link 4</a></li>
-					<li><a href="#">Link 5</a></li>
-				</ul>
-				<h3>Right heading</h3>
-				<ul>
-					<li><a href="#">Link 1</a></li>
-					<li><a href="#">Link 2</a></li>
-					<li><a href="#">Link 3</a></li>
-					<li><a href="#">Link 4</a></li>
-					<li><a href="#">Link 5</a></li>
+					<li><a href="#">Nhà sản xuất 1</a></li>
+					<li><a href="#">Nhà sản xuất 2</a></li>
+					<li><a href="#">Nhà sản xuất 3</a></li>
+					<li><a href="#">Nhà sản xuất 4</a></li>
+					<li><a href="#">Nhà sản xuất 5</a></li>
 				</ul>
 			</div>
-		</nav>
+			</nav>
 			<div id="content">
 				<div class="innertube">
-					<h1>Content</h1>
-					This is content. 
-					<h3>Content 1</h3>
-					<p>This is content. </p>
-					<h3>Content 2</h3>
-					<p>This is content. This is content. </p>
-					<h3>Content 3</h3>
-					<p>This is content. This is content. This is content. </p>
-					<h3>Content 4</h3>
-					<p>This is content. This is content. This is content. This is content. </p>
-					<h3>Content 5</h3>
-					<p>This is content. This is content. This is content. This is content. This is content. </p>
-					<h3>Content 6</h3>
-					<p>This is content. This is content. This is content. This is content. This is content. This is content. </p>
-					<h3>Content 7</h3>
-					<p>This is content. This is content. This is content. This is content. This is content. This is content. This is content. </p>
-					<h3>Content 8</h3>
-					<p>This is content. This is content. This is content. This is content. This is content. This is content. This is content. This is content. </p>
+					<h1>Sản phẩm mới nhất</h1>
+						<h2>Sản phẩm 1</h2>
+						<h2>Sản phẩm 2</h2>
+						
+					<h1>Sản phẩm bán chạy nhất</h1>
+						<h2>Sản phẩm 1</h2>
+						<h2>Sản phẩm 2</h2>
+						<h2>Sản phẩm 3</h2>
+						
+					<h1>Sản phẩm được xem nhiều nhất nhất</h1>
+						<h2>Sản phẩm 1</h2>
+						<h2>Sản phẩm 2</h2>
+						<h2>Sản phẩm 3</h2>
+						<h2>Sản phẩm 4</h2>
+						
 				</div>
 			</div>
 		</main>
