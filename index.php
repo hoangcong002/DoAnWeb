@@ -1,6 +1,5 @@
 <?php include "includes/header.php" ?>
 	<div id="wrapper">
-	
 		<main>
 			<nav>
 			<div class="innertube">

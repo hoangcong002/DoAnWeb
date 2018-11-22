@@ -8,10 +8,15 @@
     <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
     <script src="main.js"></script>
 </head>
-<body>		
- 
-	<header>
-		<div class="innertube">
-			<h1>Đây là Header...</h1>
-		</div>
-	</header>
+<body>
+    <div class="header">
+        <a href="#"><input type="image" src="images/home.png" class="home_bt"></a>
+        <div class="search_bar">
+            <input type="text" class="search_input" name="search">
+            <input type="image" src="images/search.png" class="search_bt">
+        <a href="#"><input type="image" src="images/bag.png" class="shop_bag"></a>
+        </div>
+        <div class="login_text">
+            <a href="#" class="text_login">Đăng nhập</a>
+        </div>
+    </div>
