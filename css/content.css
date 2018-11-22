@@ -1,3 +1,34 @@
-#content {
-	margin-left: 230px; 
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Sans-Serif;
+	font-size: 16px;
+	line-height: 1.5em;
+	background: #E0FEE8;
+}
+
+main {
+	padding-bottom: 10010px;
+	margin-bottom: -10000px;
+	float: left;
+	width: 100%;
+}
+				
+#wrapper {
+	overflow: hidden;
+}
+		
+.font_content {
+	margin-left: 2%;
+	text-align: left;
+}
+
+.content {
+	float: right;
+	width: 80%;
+}
+.content h3{
+	margin-left: 5%;
+	font-size: 20px;
+	color: darkblue;
 }
