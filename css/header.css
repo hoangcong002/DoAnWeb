@@ -1,7 +1,11 @@
+.clr{
+	clear: both;
+}
+
 													/* Start CSS phần Header */
 .header {
 	height: 80px;
-	background: #535AB8;
+	background: rgb(74, 65, 250);
 	width: 100%;
 }
 .home_button{
