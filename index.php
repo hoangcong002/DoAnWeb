@@ -1,4 +1,4 @@
-
+<?php include 'database/DataProvider.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,7 +17,7 @@
                 <!-- Phan Header -->
 
 	<div class="header">
-        <?php include "includes/header.php" ?>
+        <?php include 'includes/header.php'; ?>
     </div>
     
     <div class="clr"></div>
@@ -25,7 +25,8 @@
                 <!-- Phan Menu -->
 
     <div class="menu">
-        <?php include "includes/menu.php" ?>
+        
+        <?php include 'includes/menu.php'; ?>
     </div>
 
                 <!-- Phan Content -->

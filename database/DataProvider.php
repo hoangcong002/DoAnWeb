@@ -2,11 +2,11 @@
     class DataProvider
     {
         public static function ExecuteQuery($query)
-        {
-            $con = mysql_connect("localhost","root","","ShopBanHang") or die ("Can not connect Database");
-            mysql_query($con,"set name 'utf8'");
-            $result = mysql_query($con, $query);
-            mysql_query($con);
+        {	
+            $con = mysqli_connect("localhost","hhc","hhc","ShopBanHang") or die("Can not connect!");
+            mysqli_query($con,"set name 'utf8'");
+            $result = mysqli_query($con, $query);
+            mysqli_close($con);
             return $result;
         }
     }
