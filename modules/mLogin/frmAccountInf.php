@@ -1,0 +1,1 @@
+Hello, <?php echo $_SESSION["TenHienThi"]; ?> | <input type="button" value="Logout" onclick="location='index.php?a=5'" name="">
